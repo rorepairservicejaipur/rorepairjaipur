@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: "https://rorepairservicejaipur.github.io",
-  base: "/",
+  base: "/rorepairjaipur",
   prefetch: {
     prefetchAll: true,
   },
