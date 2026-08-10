@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog"
-date: 2026-08-10
-description: "My first blog post"
+pubDate: 2026-08-10
+description: "My first blog post using Notion and Astro"
 tags: ["welcome", "blog"]
 ---
 
